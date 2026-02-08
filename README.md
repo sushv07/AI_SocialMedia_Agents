@@ -136,3 +136,33 @@ This repo is intentionally designed to show how:
 **Tech used:** `AWS S3`, `boto3`, `UUID`, `video/mp4 Content-Type`  
 - Uploads MP4 to S3 and uses the public URL as the Instagram media source  
 - Improves reliability for programmatic Instagram video publishing  
+
+---
+
+## 📁 Repository Structure
+
+```text
+AI_SocialMedia_Agents/
+│
+├── AI_SocialMedia_Agent/
+│   ├── scripts/
+│   │   ├── caption_generator.py
+│   │   ├── image_generator.py
+│   │   ├── instagram_poster.py
+│   │   └── test_caption.py
+│   └── data/
+│
+├── AI_SocialMedia_Insta_VideoPost/
+│   ├── instagram_videoPost.py
+│   └── final_instagram_post.mp4
+│
+├── AI_VoiceAgent/
+│   ├── instagram_ai_post.py
+│   ├── output_audio.wav
+│   ├── output_audioMarv.wav
+│   ├── sally_derivative.wav
+│   ├── maryJaneTech.png
+│   └── naruto.jpg
+│
+├── .gitignore
+├── README.md
