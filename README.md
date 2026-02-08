@@ -41,15 +41,23 @@ This architecture ensures:
 - 🔁 **Fast iteration & experimentation**
 - 🧠 **Agent-driven automation without vendor lock-in**
 
+## 📚 EdTech Extension
+
+This pipeline can be extended to power **vocabulary and language-learning apps** by generating reusable, offline voiceovers for words, example sentences, and pronunciation guides—eliminating per-request voice costs while scaling to thousands of learners.
+
 ---
 
 ## 🎯 Real-World Use Cases
 
-- Daily Instagram reels with AI voiceovers
-- Personal brand content automation
-- Startup marketing pipelines
-- Creator tools with predictable costs
-- AI agents that act continuously (not per-request expensive)
+- Daily Instagram reels with AI voiceovers  
+- **Offline voiceovers for vocabulary and language-learning apps**  
+  - Generate pronunciation, example sentences, and daily word audio  
+  - Avoid per-request voice API costs for high-frequency learners  
+  - Ideal for education apps requiring thousands of reusable audio clips  
+- Personal brand content automation  
+- Startup marketing pipelines  
+- Creator tools with predictable costs  
+- Long-running AI agents that act continuously (not per-request expensive)
 
 ---
 
