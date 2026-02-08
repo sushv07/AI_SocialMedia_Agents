@@ -1,0 +1,44 @@
+{
+  "ugc": [
+    {
+      "id": 1,
+      "user_name": "Sophie T.",
+      "user_handle": "@sophie_tech",
+      "testimonial": "Attending this workshop was a game changer for my career! Learned so much about AI applications.",
+      "image_prompt": "a young woman learning AI at a tech workshop, modern style, vibrant colors",
+      "posted": false
+    },
+    {
+      "id": 2,
+      "user_name": "David K.",
+      "user_handle": "@davidsbuilds",
+      "testimonial": "Great community! The support I received helped me finally finish my first coding project.",
+      "image_prompt": "a happy man celebrating a coding project completion, with a laptop, colorful workspace",
+      "posted": false
+    },
+    {
+      "id": 3,
+      "user_name": "Anika R.",
+      "user_handle": "@anikainnovates",
+      "testimonial": "Loved the event vibe! Met so many like-minded people passionate about technology and growth.",
+      "image_prompt": "a tech networking event with diverse people, bright lights, futuristic background",
+      "posted": false
+    },
+    {
+      "id": 4,
+      "user_name": "Lucas M.",
+      "user_handle": "@lucasdev",
+      "testimonial": "Big thanks to the team for the amazing resources! It’s exactly what I needed to get started with Python.",
+      "image_prompt": "a beginner programmer working on Python code, coffee shop setting, cozy atmosphere",
+      "posted": false
+    },
+    {
+      "id": 5,
+      "user_name": "Priya S.",
+      "user_handle": "@priyalearns",
+      "testimonial": "Super inspired by today's AI talk! I feel more confident to build my own projects now.",
+      "image_prompt": "a motivated young woman thinking about AI projects, tech-themed, creative style",
+      "posted": false
+    }
+  ]
+}

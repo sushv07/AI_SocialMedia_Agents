@@ -1,0 +1,20 @@
+{
+  "ugc": [
+    {
+      "id": 1,
+      "user_name": "Mary Jane P.",
+      "user_handle": "@maryjane_tech",
+      "testimonial": "Loved the event vibe! Met so many like-minded people passionate about technology and growth.",
+      "image_prompt": "a young woman learning AI at a tech workshop, modern style, vibrant colors",
+      "posted": false
+    },
+    {
+      "id": 2,
+      "user_name": "Tim Cook K.",
+      "user_handle": "@timcookbuilds",
+      "testimonial": "Great community! The support I received helped me finally finish my first coding project.",
+      "image_prompt": "a happy man celebrating a coding project completion, with a laptop, colorful workspace",
+      "posted": false
+    }
+  ]
+}
