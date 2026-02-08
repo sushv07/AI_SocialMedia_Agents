@@ -124,7 +124,7 @@ This repo is intentionally designed to show how:
 
 ---
 
-### 7) (Optional) Host video on S3 for reliable Instagram uploads
+### 7) Host video on S3 for reliable Instagram uploads
 **Tech used:** `AWS S3`, `boto3`, `UUID`, `video/mp4 Content-Type`  
 - Uploads MP4 to S3 and uses the public URL as the Instagram media source  
 - Improves reliability for programmatic Instagram video publishing  
