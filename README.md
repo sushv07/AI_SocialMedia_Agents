@@ -1,4 +1,4 @@
-# AI Social Media Agents 🤖📲  
+<img width="768" height="767" alt="Screenshot 2026-02-08 at 2 35 39 PM" src="https://github.com/user-attachments/assets/4436f3dd-23b8-4852-b646-2ccb6468dd80" /># AI Social Media Agents 🤖📲  
 
 ## Business Problem This Project Solves 💡
 
@@ -60,6 +60,10 @@ This pipeline can be extended to power **vocabulary and language-learning apps**
 - Long-running AI agents that act continuously (not per-request expensive)
 
 ---
+
+## 📺 Demo Video
+<img width="2730" height="1460" alt="Screenshot 2025-07-22 at 1 15 35 PM" src="<img width="768" height="767" alt="Screenshot 2026-02-08 at 2 35 39 PM" src="https://github.com/user-attachments/assets/ff146c8d-3317-4fcc-9497-4ba3c854acaa" />"/> 
+👉 **[🎥 Watch the full demo video](https://youtu.be/rccAF7s2hps)**
 
 ## 🧠 Architectural Philosophy
 
