@@ -60,7 +60,7 @@ This pipeline can be extended to power **vocabulary and language-learning apps**
 ---
 
 ## 📺 Demo Video
-<img width="2730" height="1460" alt="Screenshot 2025-07-22 at 1 15 35 PM" src="https://github.com/user-attachments/assets/ff146c8d-3317-4fcc-9497-4ba3c854acaa"/> 
+<img width="2730" height="1460" alt="Gemini_Generated_Image_gl01tcgl01tcgl01" src="https://github.com/user-attachments/assets/8ca5cb38-3f31-4e17-9c71-1f015c7c0452"/> 
 👉 **[🎥 Watch the full demo video](https://youtu.be/rccAF7s2hps)**
 
 ## 🧠 Architectural Philosophy
