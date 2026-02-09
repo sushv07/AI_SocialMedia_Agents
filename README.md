@@ -62,7 +62,7 @@ This pipeline can be extended to power **vocabulary and language-learning apps**
 ---
 
 ## 📺 Demo Video
-<img width="2730" height="1460" alt="Screenshot 2025-07-22 at 1 15 35 PM" src="<img width="768" height="767" alt="Screenshot 2026-02-08 at 2 35 39 PM" src="https://github.com/user-attachments/assets/ff146c8d-3317-4fcc-9497-4ba3c854acaa" />"/> 
+<img width="2730" height="1460" alt="Screenshot 2025-07-22 at 1 15 35 PM" src="<img width="768" height="767" alt="Screenshot 2026-02-08 at 2 35 39 PM" src="https://github.com/user-attachments/assets/ff146c8d-3317-4fcc-9497-4ba3c854acaa"/> 
 👉 **[🎥 Watch the full demo video](https://youtu.be/rccAF7s2hps)**
 
 ## 🧠 Architectural Philosophy
