@@ -161,10 +161,6 @@ AI_SocialMedia_Agents/
 ├── AI_VoiceAgent/
 │   ├── instagram_ai_post.py
 │   ├── output_audio.wav
-│   ├── output_audioMarv.wav
-│   ├── sally_derivative.wav
-│   ├── maryJaneTech.png
-│   └── naruto.jpg
 │
 ├── .gitignore
 ├── README.md
