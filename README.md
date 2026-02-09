@@ -49,12 +49,12 @@ This pipeline can be extended to power **vocabulary and language-learning apps**
 
 ## 🎯 Real-World Use Cases
 
-- Daily Instagram reels with AI voiceovers  
+- **Daily Instagram reels with AI voiceovers**  
 - **Offline voiceovers for vocabulary and language-learning apps**  
   - Generate pronunciation, example sentences, and daily word audio  
   - Avoid per-request voice API costs for high-frequency learners  
   - Ideal for education apps requiring thousands of reusable audio clips  
-- Personal brand content automation  
+- **Personal brand content automation**  
 - Startup marketing pipelines  
 - Creator tools with predictable costs  
 - Long-running AI agents that act continuously (not per-request expensive)
